@@ -21,7 +21,7 @@ O Gráfico a seguir, ilustra a relação velocidade/consumo evidenciado.
 Gráfico 1: Relação Velocidade/Consumo.
 <p align="center">
   <a href="#">
-    <img src="Imagem2_20230423184210.png" width="300" alt="Virus">
+    <img src="Imagem2_20230423184210.png" width="300" alt="Relação Velocidade/Consumo">
   </a>
 </p>
 Fonte: Texto, dados e gráfico adaptados de  https://autoesporte.globo.com/seu-bolso/noticia/2022/12/como-economizar-combustivel-do-carro-veja-dicas-para-poupar-ate-r-5-mil-por-ano.ghtml
